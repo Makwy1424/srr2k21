@@ -1,5 +1,5 @@
  <h1 align="center">Hi 👋, I'm Smrui</h1>
-<h3 align="center">A passionate to contribute in open source projects.</h3>
+<h3 align="center">Love to contribute in open source projects.</h3>
 
 - 🌱 I’m currently learning **JS,DSA**
 
