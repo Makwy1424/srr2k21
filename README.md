@@ -1,4 +1,4 @@
- <h1 align="center">Hi 👋, I'm Smrui</h1>
+ <h1 align="center">Hi 👋, I'm Smruti</h1>
 <h3 align="center">Love to contribute in open source projects.</h3>
 
 - 🌱 I’m currently learning **JS,DSA**
