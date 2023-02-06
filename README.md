@@ -1,9 +1,9 @@
  <h1 align="center">Hi 👋, I'm Smruti</h1>
 <h3 align="center">Love to contribute in open source projects.</h3>
 
-- 🌱 I’m currently learning **JS,DSA**
+- 🌱 I’m currently learning **Flutter,DSA**
 
-- 💬 Ask me about **C,C++,HTML,CSS**
+- 💬 Ask me about **C,C++,Flutter,Kotlin**
 
 - 📫 How to reach me **smrutiranjanrout2019@gmail.com**
 
